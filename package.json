@@ -1,0 +1,15 @@
+{
+    "name": "node-js-education-extension-pack",
+    "displayName": "Node JS Education Extension Pack",
+    "description": "Popular Visual Studio Code extensions for Web Development (node.js and JavaScript)  in the classroom.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.53.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "publisher.extensionName"
+    ]
+}
