@@ -3,13 +3,53 @@
     "displayName": "Node JS Education Extension Pack",
     "description": "Popular Visual Studio Code extensions for Web Development (node.js and JavaScript)  in the classroom.",
     "version": "0.0.1",
+    "publisher": "tanhakabir",
+    "author": {
+        "name": "Tanha Kabir",
+        "email": "tanhakabir.ca@gmail.com"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tanhakabir/vscode-python-education-extension-pack"
+    },
+    "bugs": {
+        "url": "https://github.com/tanhakabir/vscode-python-education-extension-pack/issues"
+    },
+    "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#1e415e",
+        "theme": "dark"
+	},
     "engines": {
         "vscode": "^1.53.0"
     },
+    "keywords": [
+        "node",
+        "education",
+        "collaboration",
+        "javascript",
+        "vue.js",
+        "react"
+    ],
     "categories": [
-        "Extension Packs"
+        "Extension Packs",
+        "Education"
     ],
     "extensionPack": [ 
-        "publisher.extensionName"
+        "eg2.vscode-npm-script",
+        "christian-kohler.npm-intellisense",
+        "dbaeumer.vscode-eslint",
+        "ms-vscode.vscode-typescript-tslint-plugin",
+        "ms-vscode-remote.remote-ssh",
+        "ms-vsliveshare.vsliveshare",
+        "ms-vsliveshare.vsliveshare-audio",
+        "formulahendry.code-runner",
+        "TabNine.tabnine-vscode",
+        "streetsidesoftware.code-spell-checker",
+        "octref.vetur",
+        "humao.rest-client",
+        "formulahendry.auto-rename-tag",
+        "meganrogge.template-string-converter"
     ]
 }
