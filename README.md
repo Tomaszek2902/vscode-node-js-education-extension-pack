@@ -7,7 +7,7 @@ This extension pack packages some of the top extensions that has everything you 
 ##### npm
 
 * [npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script) - Adds validation for npm packages in package.json to warn if there's a mismatch between packages listed but not installed or different versions installed and listed. As well as commands to run npm scripts from the [Command Palette](https://code.visualstudio.com/docs/getstarted/userinterface#_command-palette) or the package.json itself
-* [npm IntelliSense]() - Add auto-completion for npm libraries.
+* [npm IntelliSense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) - Add auto-completion for npm libraries.
 
 ![IntelliSense](https://github.com/ChristianKohler/NpmIntellisense/raw/master/images/importcommand.gif)
 
