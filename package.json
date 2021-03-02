@@ -2,7 +2,7 @@
     "name": "node-js-education-extension-pack",
     "displayName": "Node.js and JavaScript Education Extension Pack",
     "description": "Popular Visual Studio Code extensions for Web Development (node.js and JavaScript)  in the classroom.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "tanhakabir",
     "author": {
         "name": "Tanha Kabir",
