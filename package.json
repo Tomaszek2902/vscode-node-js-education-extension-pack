@@ -1,6 +1,6 @@
 {
     "name": "node-js-education-extension-pack",
-    "displayName": "Node JS Education Extension Pack",
+    "displayName": "Node.js and JavaScript Education Extension Pack",
     "description": "Popular Visual Studio Code extensions for Web Development (node.js and JavaScript)  in the classroom.",
     "version": "0.0.1",
     "publisher": "tanhakabir",
@@ -11,10 +11,10 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/tanhakabir/vscode-python-education-extension-pack"
+        "url": "https://github.com/tanhakabir/vscode-node-js-education-extension-pack"
     },
     "bugs": {
-        "url": "https://github.com/tanhakabir/vscode-python-education-extension-pack/issues"
+        "url": "https://github.com/tanhakabir/vscode-node-js-education-extension-pack/issues"
     },
     "icon": "icon.png",
     "galleryBanner": {
@@ -40,7 +40,6 @@
         "eg2.vscode-npm-script",
         "christian-kohler.npm-intellisense",
         "dbaeumer.vscode-eslint",
-        "ms-vscode.vscode-typescript-tslint-plugin",
         "ms-vscode-remote.remote-ssh",
         "ms-vsliveshare.vsliveshare",
         "ms-vsliveshare.vsliveshare-audio",
